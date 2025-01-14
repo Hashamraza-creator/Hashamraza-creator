@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning...
 
-- 💬 Ask me about **Javascript, React.js, Angular.js, mongoDB, Moongoose, Next.js, Python, TypeScript**
+- 💬 Ask me about **Javascript, React.js, Angular.js, mongoDB, Mongoose, Next.js, Python, TypeScript**
 
 - 📫 How to reach me **csbyhasham@gmail.com**
 
