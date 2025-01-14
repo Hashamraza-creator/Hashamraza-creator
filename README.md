@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height=40% width=40%  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Hasham+Razai;I'am+MEAN+Stack+Developer;I'am+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Hasham+Raza;I'am+MEAN+Stack+Developer;I'am+App+Developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
