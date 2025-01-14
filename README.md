@@ -9,7 +9,7 @@
 
 <img align="left" height="100" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" />
 
-- 🌱 I’m currently learning...
+- 🌱 I’m Software Engineer
 
 - 💬 Ask me about **Javascript, React.js, Angular.js, mongoDB, Mongoose, Next.js, Python, TypeScript**
 
