@@ -17,9 +17,9 @@
 
 ## 📊 Stats
 
-![trophy](https://github-readme-stats.vercel.app/api?username=Malik-Muhammad-Ali&theme=blue-green)
-![trophy](https://github-readme-streak-stats.herokuapp.com?user=Malik-Muhammad-Ali&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Muhammad-Ali&layout=compact&theme=cobalt&hide_border=true)
+![trophy](https://github-readme-stats.vercel.app/api?username=Hashamraza-creator&theme=blue-green)
+![trophy](https://github-readme-streak-stats.herokuapp.com?user=Hashamraza-creator&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashamraza-creator&layout=compact&theme=cobalt&hide_border=true)
 
 ## 👨‍💻 Connect with me 
 
